@@ -3,11 +3,11 @@
 # See https://porter.sh/author-bundles for documentation on how to configure your bundle
 # Uncomment out the sections below to take full advantage of what Porter can do!
 
-name: azure-functions-java-hello
+name: endjinfun
 version: 0.5.5
 description: "A dev bundle that installs and uninstalls the Azure functions environment in Azure..."
-invocationImage: squillace/functions-java-hello-install:v0.5.5
-tag: squillace/functions-java-hello:v0.5.5
+invocationImage: squillace/endjinfun-install:v0.5.5
+tag: squillace/endjinfun:v0.5.5
 
 # Uncomment out the line below to use a template Dockerfile for your invocation image
 dockerfile: Dockerfile.tmpl
