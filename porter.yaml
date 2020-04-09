@@ -4,10 +4,10 @@
 # Uncomment out the sections below to take full advantage of what Porter can do!
 
 name: endjinfun
-version: 0.5.5
+version: 0.5.6
 description: "A dev bundle that installs and uninstalls the Azure functions environment in Azure..."
-invocationImage: squillace/endjinfun-install:v0.5.5
-tag: squillace/endjinfun:v0.5.5
+invocationImage: squillace/endjinfun-install:v0.5.6
+tag: squillace/endjinfun:v0.5.6
 
 # Uncomment out the line below to use a template Dockerfile for your invocation image
 dockerfile: Dockerfile.tmpl
